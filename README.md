@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Felipe Alves
 
-- 🔭 Trabalho atualmente com Desenvolvimento Mobile
-- 🌱 Estou estudando Kotlin 
+- 🔭 Trabalho atualmente com Desenvolvimento FrontEnd Web
+- 🌱 Estou estudando React/JS
 - 😄 Pronouns: Ele / Dele
 
 <div align="center">
